@@ -1,4 +1,4 @@
-# Todo List Application
+# Todo List Application Using React
 
 ## Overview
 This Todo List application is built using React and Tailwind CSS. It allows users to manage their tasks effectively by providing features to create, update, mark as completed, and view tasks in an expandable format. 
