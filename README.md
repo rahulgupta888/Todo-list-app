@@ -1,13 +1,12 @@
 # Todo List Application
 
 ## Overview
-This Todo List application is built using React and Tailwind CSS. It allows users to manage their tasks effectively by providing features to create, update, mark as completed, search, and view tasks in an expandable format. 
+This Todo List application is built using React and Tailwind CSS. It allows users to manage their tasks effectively by providing features to create, update, mark as completed, and view tasks in an expandable format. 
 
 ## Features
 - **Create Task**: Add new tasks to the list.
 - **Update Task**: Edit existing tasks.
 - **Mark as Done**: Mark tasks as completed.
-- **Search Tasks**: Filter tasks using the search bar.
 - **Expandable List**: Expand tasks to view descriptions and timestamps.
 
 ## Implementation
@@ -22,7 +21,6 @@ This Todo List application is built using React and Tailwind CSS. It allows user
 - `TaskList.js`: Displays the list of tasks.
 - `Task.js`: Represents a single task with options to edit and mark as done.
 - `TaskForm.js`: Form to add or edit tasks.
-- `SearchBar.js`: Search bar to filter tasks.
 
 ### System Design
 The application is structured in a modular way to ensure maintainability and scalability. Each feature is encapsulated within its own component, making the codebase easy to understand and extend.
